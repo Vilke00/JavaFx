@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="CS102-ProjektniZadatak-NemanjaVilic4050.jnlp">
+  <information>
+    <title>CS102-ProjektniZadatak-NemanjaVilic4050</title>
+    <vendor>Baki</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="CS102-ProjektniZadatak-NemanjaVilic4050.jar" size="66524" download="eager" />
+    <jar href="lib\jfxtras-labs-samples-8.0-r6-SNAPSHOT-all.jar" size="4785232" download="eager" />
+    <jar href="lib\jsoup-1.13.1.jar" size="393867" download="eager" />
+    <jar href="lib\mysql-connector-java-5.1.49.jar" size="1006904" download="eager" />
+    <jar href="lib\tornadofx-controls-1.0.6.jar" size="71859" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="CS102-ProjektniZadatak-NemanjaVilic4050" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="cs102.projektnizadatak.nemanjavilic4050.Login"  name="CS102-ProjektniZadatak-NemanjaVilic4050" />
+  <update check="always"/>
+</jnlp>
