@@ -43,6 +43,7 @@ Admin na dvoklik moze da prebaci podatke iz tabele u field-ove, I nakon toga kad
 
 
 Ako korisnik nije bio admin, ovako ce mu izgledati pocetni ekran:
+
 ![image](https://user-images.githubusercontent.com/67857389/176937422-aa403078-5434-4a04-9e20-95fc03f618bd.png)
 
 Gore su filteri za tehnologije I zanrove. Nakon odabira filtera, korisnik preba kliknuti na Prikazi rezultate I dobice rezultate, Nakon toga klikne na rezultat u tabeli I dugme Izaberi ce da odvesti dalje. Ako korisnik sumnja da film koji je zeleo da gleda vise nije u prikazivanju, moze da pogleda arhivu filmova.
